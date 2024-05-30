@@ -7,7 +7,7 @@ I'm a dedicated Software Engineering student at the University of Engineering & 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/faryal-nimra-4a49a32b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:faryalnimra190@gmail.com)
-- [Phone](tel:+923026130237)
+
 
 ## 🛠 Skills
 - **Languages:** C++, Java, Python, SQL, HTML, CSS, JavaScript
