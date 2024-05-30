@@ -23,7 +23,7 @@ I'm a dedicated Software Engineering student at the University of Engineering & 
 ## 🌱 Currently Learning
 I am currently immersed in a Full Stack Data Scientist course, aiming to broaden my expertise in data science and full-stack development. This journey is enhancing my skill set and equipping me to tackle complex challenges in the tech world.
 
-## Experience
+## 🚀 Experience
 **Frontend Developer @ DA Wedding Whisper**  
 *March 2023 – September 2023*
 - Crafted and refined responsive web applications using HTML, CSS, and JavaScript.
@@ -36,12 +36,12 @@ I am currently immersed in a Full Stack Data Scientist course, aiming to broaden
 **Management Intern @ NEPNIC Taxila**  
 *March 2022 – August 2022*
 - Coordinated projects, conducted data analysis, and led team initiatives, showcasing strong leadership and problem-solving skills.
-## Projects
+## 🚀 Projects
 - **Passport Management System**: Streamlined passport applications and renewals with a Python-based system featuring SQL integration and a user-friendly QT Designer interface.
 - **Snake Game**: Enhanced understanding of game mechanics and algorithm implementation through the creation of a classic Snake game in C++.
 - **Brick Breaker Game**: Demonstrated proficiency in Java and GUI development with an interactive Brick Breaker game built using JavaFX.
 - **Image Editing Website**: Developed a Python-based web application for image editing, allowing users to perform various manipulations with ease.
-## Education
+## 🌱  Education
 **BS in Software Engineering**  
 *University of Engineering & Technology, Taxila*  
 Expected Graduation: May 2025  
