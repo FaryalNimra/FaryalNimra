@@ -1,10 +1,11 @@
 
 # Hi, I'm Faryal Nimra! 👋
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faryalnimra&show_icons=true&theme=vue-dark)](https://github.com/faryalnimra)
+
 ## 🚀 About Me
 I'm a dedicated Software Engineering student at the University of Engineering & Technology, Taxila, currently in my 6th semester. With a strong passion for continuous learning and problem-solving, I aim to excel in dynamic environments by delivering innovative solutions and working collaboratively in teams.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faryalnimra&show_icons=true&theme=vue-dark)](https://github.com/faryalnimra)
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/faryal-nimra-4a49a32b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
