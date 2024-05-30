@@ -36,7 +36,7 @@ I am currently immersed in a Full Stack Data Scientist course, aiming to broaden
 **Management Intern @ NEPNIC Taxila**  
 *March 2022 – August 2022*
 - Coordinated projects, conducted data analysis, and led team initiatives, showcasing strong leadership and problem-solving skills.
-## 🚀 Projects
+## 🔗 Projects
 - **Passport Management System**: Streamlined passport applications and renewals with a Python-based system featuring SQL integration and a user-friendly QT Designer interface.
 - **Snake Game**: Enhanced understanding of game mechanics and algorithm implementation through the creation of a classic Snake game in C++.
 - **Brick Breaker Game**: Demonstrated proficiency in Java and GUI development with an interactive Brick Breaker game built using JavaFX.
@@ -50,6 +50,6 @@ CGPA: 3.8/4.0
 **FSC Pre-Engineering**  
 *FG Post Graduate College, Wah Cantt*  
 - Secured A+ Grade with 2nd Position in Regional Directorates FBISE
-## Fun Facts
+## 🛠 Fun Facts
 - Passionate about learning new technologies and solving real-world problems.
 - Enjoy collaborating on interesting projects.
