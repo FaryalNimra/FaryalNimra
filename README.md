@@ -1,7 +1,5 @@
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faryalnimra&show_icons=true&theme=vue-dark)](https://github.com/faryalnimra)
 # Hi, I'm Faryal Nimra! 👋
-
-
 
 ## 🚀 About Me
 I'm a dedicated Software Engineering student at the University of Engineering & Technology, Taxila, currently in my 6th semester. With a strong passion for continuous learning and problem-solving, I aim to excel in dynamic environments by delivering innovative solutions and working collaboratively in teams.
@@ -11,19 +9,25 @@ I'm a dedicated Software Engineering student at the University of Engineering & 
 - [Email](mailto:your-email@example.com)
 
 ## 🛠 Skills
+
 **Languages:**  
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frameworks/Libraries:**  
+
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white) ![QT Designer](https://img.shields.io/badge/QT_Designer-41CD52?style=flat&logo=qt&logoColor=white)
 
 **Databases:**  
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 **Tools:**  
+
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![Dev](https://img.shields.io/badge/Dev-CB3837?style=flat&logo=dev&logoColor=white)
 
-**Soft Skills:**  
+**Soft Skills:** 
+
 Team-oriented, effective communication, strong writing and listening skills
 
 
